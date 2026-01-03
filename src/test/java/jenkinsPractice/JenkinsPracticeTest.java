@@ -10,6 +10,7 @@ public class JenkinsPracticeTest {
 	public void jenkinsPracticeTest()
 	{
 		System.out.println("hiii jenkins");
+		System.out.println("bye jenkins");
 	}
 
 }
